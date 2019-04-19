@@ -10,4 +10,4 @@ def my_find(collection)
   end
 end
 
-my_find(collection) { |1| 1 % 3 == 0 and 1 % 5 == 0 }
+#my_find(collection) { |1| 1 % 3 == 0 and 1 % 5 == 0 }
